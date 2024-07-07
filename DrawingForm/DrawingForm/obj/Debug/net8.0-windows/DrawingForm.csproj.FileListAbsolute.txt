@@ -1,0 +1,16 @@
+C:\Users\Jumah Musah\source\repos\DrawingForm\DrawingForm\bin\Debug\net8.0-windows\DrawingForm.exe
+C:\Users\Jumah Musah\source\repos\DrawingForm\DrawingForm\bin\Debug\net8.0-windows\DrawingForm.deps.json
+C:\Users\Jumah Musah\source\repos\DrawingForm\DrawingForm\bin\Debug\net8.0-windows\DrawingForm.runtimeconfig.json
+C:\Users\Jumah Musah\source\repos\DrawingForm\DrawingForm\bin\Debug\net8.0-windows\DrawingForm.dll
+C:\Users\Jumah Musah\source\repos\DrawingForm\DrawingForm\bin\Debug\net8.0-windows\DrawingForm.pdb
+C:\Users\Jumah Musah\source\repos\DrawingForm\DrawingForm\obj\Debug\net8.0-windows\DrawingForm.csproj.GenerateResource.cache
+C:\Users\Jumah Musah\source\repos\DrawingForm\DrawingForm\obj\Debug\net8.0-windows\DrawingForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jumah Musah\source\repos\DrawingForm\DrawingForm\obj\Debug\net8.0-windows\DrawingForm.AssemblyInfoInputs.cache
+C:\Users\Jumah Musah\source\repos\DrawingForm\DrawingForm\obj\Debug\net8.0-windows\DrawingForm.AssemblyInfo.cs
+C:\Users\Jumah Musah\source\repos\DrawingForm\DrawingForm\obj\Debug\net8.0-windows\DrawingForm.csproj.CoreCompileInputs.cache
+C:\Users\Jumah Musah\source\repos\DrawingForm\DrawingForm\obj\Debug\net8.0-windows\DrawingForm.dll
+C:\Users\Jumah Musah\source\repos\DrawingForm\DrawingForm\obj\Debug\net8.0-windows\refint\DrawingForm.dll
+C:\Users\Jumah Musah\source\repos\DrawingForm\DrawingForm\obj\Debug\net8.0-windows\DrawingForm.pdb
+C:\Users\Jumah Musah\source\repos\DrawingForm\DrawingForm\obj\Debug\net8.0-windows\DrawingForm.genruntimeconfig.cache
+C:\Users\Jumah Musah\source\repos\DrawingForm\DrawingForm\obj\Debug\net8.0-windows\ref\DrawingForm.dll
+C:\Users\Jumah Musah\source\repos\DrawingForm\DrawingForm\obj\Debug\net8.0-windows\DrawingApp.Form1.resources

@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jumah Musah\\source\\repos\\DrawingForm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C2935A72-E136-4E56-9B88-9A468AD3EB9E}|DrawingForm\\DrawingForm.csproj|c:\\users\\jumah musah\\source\\repos\\drawingform\\drawingform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2935A72-E136-4E56-9B88-9A468AD3EB9E}|DrawingForm\\DrawingForm.csproj|solutionrelative:drawingform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2935A72-E136-4E56-9B88-9A468AD3EB9E}|DrawingForm\\DrawingForm.csproj|c:\\users\\jumah musah\\source\\repos\\drawingform\\drawingform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C2935A72-E136-4E56-9B88-9A468AD3EB9E}|DrawingForm\\DrawingForm.csproj|solutionrelative:drawingform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2935A72-E136-4E56-9B88-9A468AD3EB9E}|DrawingForm\\DrawingForm.csproj|c:\\users\\jumah musah\\source\\repos\\drawingform\\drawingform\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2935A72-E136-4E56-9B88-9A468AD3EB9E}|DrawingForm\\DrawingForm.csproj|solutionrelative:drawingform\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2935A72-E136-4E56-9B88-9A468AD3EB9E}|DrawingForm\\DrawingForm.csproj|c:\\users\\jumah musah\\source\\repos\\drawingform\\drawingform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2935A72-E136-4E56-9B88-9A468AD3EB9E}|DrawingForm\\DrawingForm.csproj|solutionrelative:drawingform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Jumah Musah\\source\\repos\\DrawingForm\\DrawingForm\\Program.cs",
+              "RelativeDocumentMoniker": "DrawingForm\\Program.cs",
+              "ToolTip": "C:\\Users\\Jumah Musah\\source\\repos\\DrawingForm\\DrawingForm\\Program.cs",
+              "RelativeToolTip": "DrawingForm\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T03:25:58.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Jumah Musah\\source\\repos\\DrawingForm\\DrawingForm\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "DrawingForm\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Jumah Musah\\source\\repos\\DrawingForm\\DrawingForm\\Form1.Designer.cs",
+              "RelativeToolTip": "DrawingForm\\Form1.Designer.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAuwDQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T03:15:24.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Jumah Musah\\source\\repos\\DrawingForm\\DrawingForm\\Form1.cs",
+              "RelativeDocumentMoniker": "DrawingForm\\Form1.cs",
+              "ToolTip": "C:\\Users\\Jumah Musah\\source\\repos\\DrawingForm\\DrawingForm\\Form1.cs",
+              "RelativeToolTip": "DrawingForm\\Form1.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAuwFoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T03:00:58.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Jumah Musah\\source\\repos\\DrawingForm\\DrawingForm\\Form1.cs",
+              "RelativeDocumentMoniker": "DrawingForm\\Form1.cs",
+              "ToolTip": "C:\\Users\\Jumah Musah\\source\\repos\\DrawingForm\\DrawingForm\\Form1.cs [Design]",
+              "RelativeToolTip": "DrawingForm\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T02:59:46.359Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
